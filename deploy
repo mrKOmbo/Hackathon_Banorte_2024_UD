@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
-rm -rf /srv/banorte-hackathon*
+rm -rf /srv/banorte-hackathon/*
 
 git pull
 for f in `find . -name "*.adoc"; do
