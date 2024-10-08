@@ -1,0 +1,10 @@
+#!/bin/bash
+set -e
+rm -rf /srv/banorte-hackathon*
+
+git pull
+for f in `find . -name "*.adoc"; do
+    asciidoctor -a experimental -a icons=font -a sectanchors -a sectlinks -a source-highlighter=pygments -a stem -a stylesdir="$(pwd)/config" -a stylesheet="estilos.css" -a toc=left -a toc-title="Hackathon" -b xhtml5  -r asciidoctor-diagram $f
+done
+
+cp * --parents /srv/banorte-hackathon/
