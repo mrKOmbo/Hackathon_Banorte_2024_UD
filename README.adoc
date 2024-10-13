@@ -16,6 +16,7 @@ En la carpeta **Docs** se encuentra la documentación solicitada por el hackatho
 - **Documentación Técnica**: Información técnica sobre la implementación y el funcionamiento del proyecto.
 - **Plan de Escalabilidad**: Estrategias para garantizar que el proyecto pueda crecer y adaptarse a la demanda.
 - **Documentación General del Proyecto**: Un PDF que incluye el objetivo, hipótesis, investigación y la forma en que se solucionó el problema.
+- **Presentación en Canva**: Una presentación que resume el proyecto.
 
 ## Carpeta de Assets
 
@@ -25,5 +26,18 @@ Además, contamos con una carpeta llamada **assets**, que contiene:
 - Escenarios
 - Logos
 - NPCs
+
+## Carpeta Hackathon Docs
+
+También hay otra carpeta llamada **Hackathon Docs**, que incluye:
+
+- **CX_Experiencia_del_Cliente**
+- **UI Kit Hackathon-1**
+- **Planteamiento del Problema**
+
+## Herramientas Utilizadas
+
+- **Notion**: [Documentación del proyecto en Notion](https://fast-paperback-ff9.notion.site/Banorte-Hackathon-2025-1191b19a2501801b9cc6f78035295a0f?pvs=4)
+- **Figma**: [Diseño del proyecto en Figma](https://www.figma.com/design/imRDOFV6p5PGWSYPfTTSwt/Hack-Banorte?node-id=54-69&t=0FPtBbzobdmvowSD-1)
 
 Esperamos que esta documentación sea útil para comprender el alcance y los objetivos del proyecto. Si tienes preguntas o comentarios, no dudes en contactarnos.
