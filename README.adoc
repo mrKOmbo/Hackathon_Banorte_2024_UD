@@ -1,12 +1,29 @@
-= Banorte
-Doc Writer <doc@example.com>
+# Repositorio de Documentación
 
-An introduction to http://asciidoc.org[AsciiDoc].
+Este es un repositorio dedicado a la documentación del proyecto, en el cual se incluye información clave sobre el desarrollo y la implementación de la solución propuesta. A continuación, se detalla la estructura de la documentación y su contenido.
 
-== First Section
+## Documentación Técnica
 
-* item 1
-* item 2
+Para consultar la documentación técnica del problema, visita el siguiente enlace: [Documentación Técnica del Problema](https://github.com/twilight1794/hackaton-banorte-2024).
 
-[source,ruby]
-puts "Hello, World!"
+## Contenido de la Documentación
+
+En la carpeta **Docs** se encuentra la documentación solicitada por el hackathon, que incluye:
+
+- **Prototipo**: Un diseño inicial de la solución propuesta, que ilustra las funcionalidades y la interfaz del usuario.
+- **User Persona**: Perfiles representativos de los usuarios que ayudarán a comprender mejor sus necesidades y comportamientos.
+- **Canales de Interacción**: Descripción de los métodos a través de los cuales los usuarios interactuarán con el proyecto.
+- **Documentación Técnica**: Información técnica sobre la implementación y el funcionamiento del proyecto.
+- **Plan de Escalabilidad**: Estrategias para garantizar que el proyecto pueda crecer y adaptarse a la demanda.
+- **Documentación General del Proyecto**: Un PDF que incluye el objetivo, hipótesis, investigación y la forma en que se solucionó el problema.
+
+## Carpeta de Assets
+
+Además, contamos con una carpeta llamada **assets**, que contiene:
+
+- Íconos
+- Escenarios
+- Logos
+- NPCs
+
+Esperamos que esta documentación sea útil para comprender el alcance y los objetivos del proyecto. Si tienes preguntas o comentarios, no dudes en contactarnos.
